@@ -1,2 +1,2 @@
 # StupidEncryption
-Yep, it's that simple.
+My shitcode from highschool
