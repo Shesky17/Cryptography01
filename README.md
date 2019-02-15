@@ -1,2 +1,1 @@
-# StupidEncryption
-My shitcode from highschool
+# Shitcode from highschool
